@@ -12,8 +12,7 @@ namespace GitSzenario
         {
             // Projekt angelegt
 
-            //Branch von Fotini
-            
+            // Branch Mae
         }
     }
 }
